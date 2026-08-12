@@ -1,0 +1,5 @@
+series,ADF_stat,ADF_p,KPSS_stat,KPSS_p,ADF_says,KPSS_says
+raw,-8.949,0.0,0.038,0.1,stationary,stationary
+first_diff,-16.953,0.0,0.078,0.1,stationary,stationary
+seasonal_diff_24,-13.593,0.0,0.009,0.1,stationary,stationary
+seasonal_plus_first_diff,-18.154,0.0,0.081,0.1,stationary,stationary
